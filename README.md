@@ -8,3 +8,6 @@ shipping list:
 2) shell
 3）power cable
 4) opensource materials: schematic , codes,manual and development guidance
+![image](https://user-images.githubusercontent.com/30722223/190935873-f7b99ccc-f141-4e22-84a1-a5f251419c11.png)
+
+![image](https://user-images.githubusercontent.com/30722223/190935887-eef84791-2d18-4278-9d26-c4a771c5071b.png)
